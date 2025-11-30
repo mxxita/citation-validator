@@ -171,7 +171,7 @@ Tested on "Attention Is All You Need" (Vaswani et al., 2017):
 | Supported | 26% |
 | Unverifiable | 58% |
 
-See [RESULTS_REPORT.md](RESULTS_REPORT.md) for full analysis.
+See [Results.md](Results.md) for full analysis.
 
 ## Dependencies
 
