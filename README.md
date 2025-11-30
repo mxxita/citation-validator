@@ -152,7 +152,7 @@ paper-validator/
 
 ## Limitations
 
-See [LIMITATIONS.md](LIMITATIONS.md) for details.
+See [Limitations.md](Limitations.md) for details.
 
 **Key constraints:**
 - Abstract-only retrieval (no full-text) → high unverifiable rate
