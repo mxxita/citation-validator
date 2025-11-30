@@ -18,7 +18,6 @@ build/
 
 # Project specific
 output/
-*.pdf
 paper_cache.db
 *.log
 
